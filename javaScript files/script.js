@@ -1,0 +1,1 @@
+console.log("i am in new folderi in new js file")
